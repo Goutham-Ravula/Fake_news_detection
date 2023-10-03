@@ -10,7 +10,6 @@ This repository contains code for a Fake News Detection project using machine le
 - [Data Preprocessing](#data-preprocessing)
 - [Models and Classification](#models-and-classification)
 - [Manual Testing](#manual-testing)
-- [License](#license)
 
 ## Introduction
 
