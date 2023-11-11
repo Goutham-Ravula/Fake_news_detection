@@ -21,7 +21,7 @@ The dataset used in this project consists of two CSV files:
 - `Fake.csv`: Contains fake news articles.
 - `True.csv`: Contains true news articles.
 
-The dataset is sourced from [[dataset link here]](https://www.dropbox.com/scl/fo/pea3jo3kxnhktfagk39t8/h?rlkey=dzpwbmj6dob0vg3zd7a0lfnjy&dl=0) and is for educational purposes only.
+The dataset is sourced from [[dropbox]](https://www.dropbox.com/scl/fo/pea3jo3kxnhktfagk39t8/h?rlkey=dzpwbmj6dob0vg3zd7a0lfnjy&dl=0) and is for educational purposes only.
 
 ## Data Preprocessing
 
